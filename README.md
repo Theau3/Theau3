@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Théau BOIDOUX</h1>
 <h3 align="center">A passionate CS engineering student from France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theau3" alt="theau3" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
